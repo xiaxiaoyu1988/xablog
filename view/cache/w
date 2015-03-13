@@ -1,0 +1,25 @@
+s:2039:"<div class="rss">
+             <ul class="rss_bor">
+	             <li class="rss_png"><a href="#">通过RSS订阅</a></li>
+               </ul>
+          </div><script>
+		$("#bloger_img").qtip({
+  				 content: 'Dark themes are all the rage!',
+ 		  style: { 
+   			   name: 'dark' // Inherit from preset style
+ 		  }
+			});
+		</script>
+		<div class='w_side'>
+		 <p style="font-size:18px;" id="w_title">&nbsp;博主</p>
+		 <p><center><img id="bloger_img" src='view/upfile/20110408/2ace7e0ddc324f941d9408346ec00132201104080629.JPG' title='hhhhhh' width="120px" height="130px"/></center></p>
+		 <p><center><a href="mailto:xyyvsxh@yahoo.com.cn">xyy</a></center></p>
+		 </div><div class='w_side'>
+	<p style="font-size:18px;" id="w_title">&nbsp;最新文章</p>
+		 <p class="post_new"><a href="?post_id=165" id="post_new" title=aaaaa>aaaaa</a></p><p class="post_new"><a href="?post_id=164" id="post_new" title=请输入文章标题5555>请输入文章标题5555</a></p><p class="post_new"><a href="?post_id=163" id="post_new" title=关于数据驱动>关于数据驱动</a></p><p class="post_new"><a href="?post_id=162" id="post_new" title=请输入文章标题123>请输入文章标题123</a></p><p class="post_new"><a href="?post_id=161" id="post_new" title=请输入文章标题2123>请输入文章标题2123</a></p>
+	</div><div class='w_side'>
+	<p style="font-size:18px;" id="w_title">&nbsp;分类</p>
+		 <p id="sort"><a href="?sort_id=0"  title=默认>默认</a></p><p id="sort"><a href="?sort_id=91"  title=66666>66666</a></p>
+	</div><div class='w_side'>
+		 <p style="font-size:18px;" id="w_title">&nbsp;友链</p><p id="sort"><a href="http://xtimer.org"  title=xtimer>xtimer</a></p>
+		 </div><object type="application/x-shockwave-flash" style="outline:none;" data="http://localhost/xablog/view/upfile/game/mouse.swf?" width="180" height="150"><param name="movie" value="http://localhost/xablog/view/upfile/game/mouse.swf?"><param name="AllowScriptAccess" value="always"><param name="wmode" value="opaque"></object>";

@@ -1,0 +1,101 @@
+#respond h3 {
+	font-size: 16px;
+	line-height: 1;
+	margin: 0 0 0.5em;
+	padding-top: 20px;
+}
+
+#commentform input[type="text"] {
+	width: 45%;
+}
+
+#commentform p {
+	margin: 0 0 1em 0;
+}
+
+#commentform textarea {
+	width: 95%;
+}
+
+.comments-number {
+	margin: 0 auto 1.5em;
+	padding-top: 1em;
+	font-size: 16px;
+	line-height: 1;
+}
+
+b,strong {
+	font-weight: bold;
+}
+
+.buttoncss {
+	background-color: #FFF;
+	color: #464646;
+	font-family: "Lucida Grande", Verdana, Arial, "Bitstream Vera Sans",
+		sans-serif;
+	padding-left: 10px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	border: #bbb;
+	font-size: 12px;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 10px;
+	cursor: pointer;
+	text-algin: center;
+	text-decoration: none;
+	margin-top: -3px;
+	width: 40px;
+	text-decoration: none;
+	border-color: #bbb;
+}
+
+.commentlist {
+	margin: 0 0 2em;
+}
+
+.commentlist li {
+	margin: 0 0 1em;
+	padding: 0.5em 5px;
+}
+
+.thread-alt {
+	background-color: #ECECEC;
+}
+
+.comment-author {
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 1.1;
+}
+
+.comment-author cite {
+	font-style: normal;
+}
+
+.comment-meta {
+	font-size: 10px;
+	font-style: italic;
+	color: #777;
+}
+
+.comment-meta a {
+	color: #777;
+}
+
+.comment-meta a:hover {
+	text-decoration: underline;
+}
+
+.commentlist p {
+	margin: 1.4545em 5px 1.4545em 0;
+	font-size: 14px;
+	line-height: 1.5454;
+	font-family: verdana, 'Lucida Grande', arial, sans-serif;
+	color: #333;
+}
+
+.reply {
+	font-size: 12px;
+	font-weight: bold;
+}
